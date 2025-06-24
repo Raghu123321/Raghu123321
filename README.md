@@ -15,8 +15,8 @@
 - 🧠 Currently learning advanced C++, After Effects & freelancing
 
 - 📫 How to reach me:  
-  - 📧 **yourname@email.com**  
-  - 📱 **+91-XXXXXXXXXX**  
+  - 📧 hinduraghu800@gmail.com  
+  - 📱 **+91-9417018775**  
   - 🌐 [My GitHub Projects](https://github.com/YOUR_USERNAME?tab=repositories)
 
 ---
